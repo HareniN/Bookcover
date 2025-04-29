@@ -1,9 +1,12 @@
 Ex.06 Book Front Cover Page Design
+
 Date:
+
 AIM:
 To design a book front cover page using HTML and CSS.
 
 DESIGN STEPS:
+
 Step 1:
 Create a Django Admin project.
 
@@ -29,6 +32,10 @@ Step 8:
 Publish the website in the LocalHost.
 
 PROGRAM:
+
+
 OUTPUT:
+
+
 RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
